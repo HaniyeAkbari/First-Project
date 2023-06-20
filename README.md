@@ -1,6 +1,6 @@
 # First Project with using flex
 
-- [Demo Project]([https://github.com/HaniyeAkbari/First-Project/](https://raw.githack.com/HaniyeAkbari/First-Project/index.html))
+- [Demo Project](https://raw.githack.com/HaniyeAkbari/First-Project/index.html)
 - Developed by Haniye Akbari
 - Created - 2023
 - 🤖 Technologies Used - Html , css 
